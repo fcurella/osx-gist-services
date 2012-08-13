@@ -8,7 +8,7 @@ Install the ``gist`` command-line utility:
 
 Set up up your GitHub credentials with ``git``:
 
-    $ git config --global github.username <your username>
+    $ git config --global github.user <your username>
     $ git config --global github.password <your password>
 
 Copy ``Create Private Gist.workflow`` and ``Create Public Gist.workflow`` into ``~/Library/Services``
