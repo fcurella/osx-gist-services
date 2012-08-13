@@ -1,0 +1,14 @@
+OS X services to quickly create gists from the selected text. Based on [@stinkymatt code](https://gist.github.com/1233190#gistcomment-81187)
+
+## Installation
+
+Install the ``gist`` command-line utility:
+
+    $ brew install gist
+
+Set up up your GitHub credentials with ``git``:
+
+    $ git config --global github.username <your username>
+    $ git config --global github.password <your password>
+
+Copy ``Create Private Gist.workflow`` and ``Create Public Gist.workflow`` into ``~/Library/Services``
