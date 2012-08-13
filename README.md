@@ -6,7 +6,7 @@ Install the ``gist`` command-line utility:
 
     $ brew install gist
 
-Set up up your GitHub credentials with ``git``:
+Set up ``git`` with your GitHub credentials with:
 
     $ git config --global github.user <your username>
     $ git config --global github.password <your password>
